@@ -1,0 +1,43 @@
+.card1 {
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    height: 500px;
+    position: relative;
+    width: 400px;
+  }
+  .card-3 {
+    padding: 15px;
+    background-color:rgb(132, 128, 128);
+    text-align: center;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    
+}
+span{
+    color: white;
+    font-weight: 500;
+    font-size:24px;
+    font-family: monospace;
+    padding: 5px;
+}
+
+button{
+display: inline-block;
+outline: none;
+cursor: pointer;
+font-size: 16px;
+line-height: 20px;
+font-weight: 600;
+border-radius: 8px;
+padding: 14px 24px;
+border: none;
+transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s;
+background: linear-gradient(to right, rgb(230, 30, 77) 0%, rgb(227, 28, 95) 50%, rgb(215, 4, 102) 100%);
+color: #fff;
+}
+label{
+  color:black;
+  font-weight:500;
+  font-family:cursive;
+  font-size: 30px;
+}
